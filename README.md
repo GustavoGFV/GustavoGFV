@@ -1,6 +1,6 @@
 # Hi, Gustavo Here! ✋
 
-I am a software developer with 3 years of experience working mostly in the C# language with .NET Core, C, C++ and Angular Js. 
+I am a software developer for around 6 years of experience working mostly in the C# language with .NET Core, C, C++ and Angular Js. 
 
 Currently graduating as Computer Engineer. 
 
